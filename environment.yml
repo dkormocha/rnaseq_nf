@@ -1,0 +1,15 @@
+name: rnaseq
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - nextflow=23.10.1
+  - fastqc=0.11.9
+  - trimmomatic=0.39
+  - star
+  - samtools
+  - subread
+  - multiqc=1.14
