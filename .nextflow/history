@@ -1,5 +1,0 @@
-2026-05-04 23:52:11	1.2s	prickly_marconi	ERR	3a85a05eb16902b4dc40acae52644657	1794300b-4157-40d4-af31-1aa952f3e94f	nextflow run main.nf
-2026-05-04 23:52:36	1m 14s	maniac_payne	ERR	a00e1f169e893cb771af96b78d901451	7ce0ec62-91f6-4405-bd0b-ba9b63fea76c	nextflow run main.nf
-2026-05-04 23:53:54	1m 36s	deadly_lamport	ERR	a00e1f169e893cb771af96b78d901451	9be8b2fb-d980-4986-a024-a1503d66c283	nextflow run main.nf
-2026-05-04 23:56:09	4m 18s	happy_pauling	ERR	a00e1f169e893cb771af96b78d901451	5fbb9c42-a570-430c-8228-9ea4b57b3cc5	nextflow run main.nf
-2026-05-09 10:14:52	3.3s	agitated_kimura	ERR	a00e1f169e893cb771af96b78d901451	096322cb-cb15-4828-a9f8-857404556eee	nextflow run main.nf
